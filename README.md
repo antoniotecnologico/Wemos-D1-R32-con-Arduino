@@ -51,4 +51,4 @@ Programación de la placa Wemos D1 R3 con micro ESP32 mediante el IDE de Arduino
   
 **ENLACES DE INTERÉS**  
 
-  - https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/  
+  - https://randomnerdtutorials.com/projects-esp32/   
