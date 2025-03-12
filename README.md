@@ -57,7 +57,9 @@ Programación de la placa Wemos D1 R3 con micro ESP32 mediante el IDE de Arduino
 Obtendremos en el Monitor Serie,la MAC de la placa WEMOS siguiendo este proceso:
 
 1º Copiamos el siguiente código en el IDE de arduino:
-![](code/LaMACWemos.ino)  
+https://github.com/antoniotecnologico/Wemos-D1-R32-con-Arduino/blob/main/code/LaMACWemos.ino
+
+
 
 
 
