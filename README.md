@@ -60,7 +60,8 @@ Obtendremos en el Monitor Serie,la MAC de la placa WEMOS siguiendo este proceso:
    2º 2º Compilamos y descargamos en la placa.  
    3º Abrimos el monitor serie y pulsamos el RESET de la placa.  
    4º Aparecerá este mensaje con al dirección MAC:
-   ![](images/obtención MAC.jpg)  
+   ![](images/obtención MAC.jpg)
+   
    
 
 
