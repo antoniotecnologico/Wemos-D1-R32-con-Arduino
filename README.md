@@ -59,7 +59,7 @@ Obtendremos en el Monitor Serie,la MAC de la placa WEMOS siguiendo este proceso:
       https://github.com/antoniotecnologico/Wemos-D1-R32-con-Arduino/blob/main/code/LaMACWemos.ino
    2º 2º Compilamos y descargamos en la placa.  
    3º Abrimos el monitor serie y pulsamos el RESET de la placa.  
-   4º Aparecerá este mensaje con al dirección MAC:
+   4º Aparecerá este mensaje con al dirección MAC:  
    ![](images/obtención MAC.jpg)
    
    
